@@ -7,15 +7,40 @@ Detailed Explanations: Each query includes comments and explanations.
 Best Practices: Focus on performance and readability.
 Cross-Platform: Compatible with MySQL, PostgreSQL, Oracle, and SQL Server.
 Contents
-Basic Queries: SELECT, filtering, sorting.
-Joins: INNER, LEFT, RIGHT, FULL.
-Aggregations: COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING.
-Subqueries: Nested queries and use cases.
-Advanced Techniques: Window functions, CTEs.
-Database Management: DDL statements.
-Performance Tuning: Optimization tips and queries.
+Basic Queries:
+
+SELECT
+Filtering
+Sorting
+Joins:
+
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL JOIN
+Aggregations:
+
+COUNT
+SUM
+AVG
+MIN
+MAX
+GROUP BY
+HAVING
+Subqueries:
+
+Nested queries
+Use cases
+Advanced Techniques:
+
+Window functions
+CTEs (Common Table Expressions)
+Database Management:
+
+DDL (Data Definition Language) statements
+Performance Tuning:
+
+Optimization tips
+Queries
 Usage
 Use this repository as a reference for writing efficient SQL queries. Clone, explore, and adapt the queries to fit your needs.
-
-Contributions
-Contributions are welcome! Submit a pull request with your query and explanation.
