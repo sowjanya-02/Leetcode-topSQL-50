@@ -12,28 +12,28 @@ Features
     - Filtering
     - Sorting
 * Joins:
-    INNER JOIN
-    LEFT JOIN
-    RIGHT JOIN
-    FULL JOIN
+    - INNER JOIN
+    - LEFT JOIN
+    - RIGHT JOIN
+    - FULL JOIN
 * Aggregations:
-      COUNT
-      SUM
-      AVG
-      MIN
-      MAX
-      GROUP BY
-      HAVING
+      - COUNT
+      - SUM
+      - AVG
+      - MIN
+      - MAX
+      - GROUP BY
+      - HAVING
 * Subqueries:
-  Nested queries
-  Use cases
+  - Nested queries
+  - Use cases
 * Advanced Techniques:
-    Window functions
-    CTEs (Common Table Expressions)
+    - Window functions
+    - CTEs (Common Table Expressions)
 * Database Management:
-    DDL (Data Definition Language) statements
+    - DDL (Data Definition Language) statements
 * Performance Tuning:
-    Optimization tips
-    Queries
+    - Optimization tips
+    - Queries
 Usage
 Use this repository as a reference for writing efficient SQL queries. Clone, explore, and adapt the queries to fit your needs.
