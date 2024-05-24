@@ -8,9 +8,9 @@ Features
 - Cross-Platform: Compatible with MySQL, PostgreSQL, Oracle, and SQL Server.
 //Contents
 * Basic Queries:
-    SELECT
-    Filtering
-    Sorting
+    - SELECT
+    - Filtering
+    - Sorting
 * Joins:
     INNER JOIN
     LEFT JOIN
