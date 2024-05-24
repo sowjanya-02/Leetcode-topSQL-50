@@ -2,23 +2,23 @@
 A curated collection of the top 50 SQL queries essential for data analysis, database management, and optimization.
 
 Features
-Comprehensive Queries: Covers basic to advanced SQL queries.
-Detailed Explanations: Each query includes comments and explanations.
-Best Practices: Focus on performance and readability.
-Cross-Platform: Compatible with MySQL, PostgreSQL, Oracle, and SQL Server.
-Contents
-Basic Queries:
+- Comprehensive Queries: Covers basic to advanced SQL queries.
+- Detailed Explanations: Each query includes comments and explanations.
+- Best Practices: Focus on performance and readability.
+- Cross-Platform: Compatible with MySQL, PostgreSQL, Oracle, and SQL Server.
+//Contents
+* Basic Queries:
 
 SELECT
 Filtering
 Sorting
-Joins:
+* Joins:
 
 INNER JOIN
 LEFT JOIN
 RIGHT JOIN
 FULL JOIN
-Aggregations:
+* Aggregations:
 
 COUNT
 SUM
@@ -27,18 +27,18 @@ MIN
 MAX
 GROUP BY
 HAVING
-Subqueries:
+* Subqueries:
 
 Nested queries
 Use cases
-Advanced Techniques:
+* Advanced Techniques:
 
 Window functions
 CTEs (Common Table Expressions)
-Database Management:
+* Database Management:
 
 DDL (Data Definition Language) statements
-Performance Tuning:
+* Performance Tuning:
 
 Optimization tips
 Queries
